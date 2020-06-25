@@ -15,4 +15,6 @@ Charakter Eigenschaften
 * deeply empathetic
 * can see thestrals
 * direct
-* honest  
+* honest 
+
+> Geben ist seliger als Nehmen 
