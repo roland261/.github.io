@@ -18,3 +18,5 @@ Charakter Eigenschaften
 * honest 
 
 > Geben ist seliger als Nehmen 
+
+<img src="URL"/>=https://www.pexels.com/de-de/foto/draussen-draussen-farben-fashion-2896840/
